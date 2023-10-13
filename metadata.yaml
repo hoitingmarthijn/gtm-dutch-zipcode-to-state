@@ -3,5 +3,5 @@ homepage: "https://www.kinesso.com"
 documentation: "https://github.com/hoitingmarthijn/gtm-dutch-zipcode-to-state/blob/main/README.md"
 versions:
   # Latest version
-  - sha: e68ce51d1cb5a09504d696274f209a830ab0a96c
+  - sha: 9271335dce3650f3efe967b5887f31db7fb82797
     changeNotes: Initial release.
